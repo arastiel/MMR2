@@ -1,0 +1,23 @@
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# file: ~/.gitignore_global
+.DS_Store
+.idea
+
+# file: bunny
+.bunny.tar.gz
+bunny.tar.gz
+bunny_data/
+bunny_data
+bunny_data/bunny/
+.bunny_data/bunny
+.bunny_data/bunny/
+.bunny_data
+bunny_data.bunny/
